@@ -1,6 +1,6 @@
-#Number Guesser project
+# Number Guesser project
 
-##The project is for building a small number guessing game with HTML DOM and javascript.
+## The project is for building a small number guessing game with HTML DOM and javascript.
 
 ### How the game works:
 1. There are 2 players: user and computer
